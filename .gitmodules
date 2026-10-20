@@ -1,0 +1,10 @@
+[submodule "Search-R1"]
+	path = Search-R1
+	url = https://github.com/PeterGriffinJin/Search-R1
+
+/papers/
+/scripts/
+/conda_setup/
+
+*.out
+*.err
